@@ -1,5 +1,3 @@
-#!/bin/sh
-
 source ~/.zsh/aliases.zsh
 source ~/.zsh/bindkeys.zsh
 source ~/.zsh/colors.zsh
