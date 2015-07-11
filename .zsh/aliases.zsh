@@ -9,6 +9,6 @@ alias ll='ls -lahF --group-directories-first --color=auto'
 # Colorize output
 alias grep='grep --color=auto'
 
-# john
-# make sure that $JOHN is set
-alias john='$JOHN/john'
+# du
+# show size of current folder and sort it
+alias size='du -sh * | sort -hr'
